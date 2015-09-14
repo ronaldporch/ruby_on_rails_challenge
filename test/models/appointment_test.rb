@@ -11,6 +11,7 @@ class AppointmentTest < ActiveSupport::TestCase
   	apt.pet = Pet.first
   	apt.customer = Customer.first
   	assert_not apt.save
+  	
   end
 
   test "Appointment should not save without an appointment date" do
