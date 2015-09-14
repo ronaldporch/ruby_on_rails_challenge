@@ -6,3 +6,4 @@ This Ruby on Rails Challenge demonstrates some of the best practices that are in
 * Unit Tests
 * Proper Migrations
 * Git Branches (Used for each User Story)
+* Git Issues
