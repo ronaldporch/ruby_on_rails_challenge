@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: Bob
+  address: 1234 Apple Way
+  city: Anytown
+  state: Louisiana
+  zip: 70812
+  school: Louisiana State University
+  schoolYears: 2
+
+two:
+  name: 
+  address: 
+  city: 
+  state: 
+  zip: 
+  school: 
+  schoolYears: 

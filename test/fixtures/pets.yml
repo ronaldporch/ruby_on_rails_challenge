@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: Garfield
+  animalType: 2
+  breed: Tabbie
+  age: 2
+  weight: 50
+  lastVisit: 2015-09-14 11:33:34
+
+two:
+  name: Rover
+  animalType: 1 
+  breed: Lab
+  age: 4
+  weight: 80
+  lastVisit: 2015-09-13 11:33:34
