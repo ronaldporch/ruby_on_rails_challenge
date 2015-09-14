@@ -2,7 +2,7 @@
 
 This Ruby on Rails Challenge demonstrates some of the best practices that are involved with creating a typical RoR Application. Within this assignment shows the following and more:
 
-Model Validation (Along with custom validations)
-Unit Tests
-Proper Migrations
-Git Branches (Used for each User Story)
+* Model Validation (Along with custom validations)
+* Unit Tests
+* Proper Migrations
+* Git Branches (Used for each User Story)
